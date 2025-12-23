@@ -1,6 +1,6 @@
 # jgemu
 
-**jgemu** is a simple emulator launcher written in PyQt5.  
+**jgemu** is a simple emulator launcher written in PyQt6.  
 Its creation was inspired by [Yava](https://github.com/Beluki/Yava).
 
 **Now supports both Windows and Linux!**
@@ -29,12 +29,12 @@ Its creation was inspired by [Yava](https://github.com/Beluki/Yava).
 ### Requirements
 
 - Python 3.7+
-- PyQt5
+- PyQt6
 
 Install dependencies:
 
 ```sh
-pip install PyQt5
+pip install pyqt6
 ```
 
 ---
